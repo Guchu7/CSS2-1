@@ -1,0 +1,269 @@
+#Read {
+    width: 1237px;
+    height: 86px;
+    top: 24px;
+    left: 341px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lato";
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86.4px;
+    text-align: left;
+    text-underline-position: "from-font";
+    text-decoration-skip-ink: none;
+    color: black;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+#image-one{
+    width: 568px;
+    height: 446px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 20px;
+    margin-top: 20px
+}
+
+#night {
+    width: 568px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lato";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: "from-font";
+    text-decoration-skip-ink: none;
+}
+
+#text {
+    width: 568px;
+    height: 96px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lato";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: "from-font";
+    text-decoration-skip-ink: none;
+    margin-left: 20px;
+    color: #414651;
+    
+}
+
+#Numbers {
+    width: 568px;
+height: 144px;
+gap: 0px;
+opacity: 0px;
+font-family: "Lato";
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: "from-font";
+text-decoration-skip-ink: none;
+color: #155EEF;
+margin-left: 20px;
+}
+
+#border {
+    width: 113px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: "Lato";
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+text-underline-position: "from-font";
+text-decoration-skip-ink: none;
+width: Hug (177px)px;
+height: Hug (56px)px;
+padding: 12px 32px 12px 32px;
+gap: 10px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+border: 2px solid #CEA201;
+margin-left: 30px;
+color: #CEA201;
+
+}
+
+#Magic {
+    width: Hug (722px)px;
+height: Hug (1,156px)px;
+top: 1087px;
+left: 55px;
+gap: 24px;
+opacity: 0px;
+
+}
+
+#glowing {
+    width: 722px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Lato;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 50px;
+
+}
+
+#text-two{
+    width: 722px;
+height: 72px;
+gap: 0px;
+opacity: 0px;
+font-family: Lato;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #414651;
+margin-left: 10px;
+}
+
+#how-work {
+    width: Fill (722px)px;
+height: Hug (112px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+
+#Here {
+    width: 722px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Lato;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #00C76E;
+
+}
+
+#Numbers-two {
+    width: 461px;
+height: 72px;
+gap: 0px;
+opacity: 0px;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FF5DA3;
+margin-left: 20px;
+}
+
+#fly {
+    width: 200px;
+height: 200px;
+gap: 0px;
+opacity: 0px;
+margin-left: 20px;
+}
+
+.styled-box {
+    width: 690px;
+    background: #FFDEF0;
+    border: 6px solid #C11574;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-left: 20px
+  }
+  .styled-box h2 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #333;
+    margin: 0 0 10px;
+    line-height: 24px;
+  }
+  .styled-box ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #C27512;
+
+  }
+  .styled-box ul li {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 10px;
+  }
+  .styled-box ul li:last-child {
+    margin-bottom: 0;
+    
+  }
+  .styled-box ul li::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: #000;
+    border-radius: 50%;
+    margin-right: 10px;
+    
+  }
+  .styled-box ul li span {
+    color: #C27512;
+  }
+
+
+  #sea {
+    width: 298.01px;
+height: 396px;
+gap: 0px;
+opacity: 0px;
+margin-top: 20px;
+margin-left: 20px;
+  }
+
+  #more {
+    width: 216px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Lato;
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: auto;
+color: #00D4BC;
+justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+  }
